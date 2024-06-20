@@ -1,5 +1,8 @@
 Use this repository to demonstrate understanding of data structures and common algorithms.  
-Data structures could be things such a single/doubly linked lists.  
-Algorithms could be sorting algorithms.  
+Data structures includes a singly linked list and a binary tree.
+Algorithms contains a bubble sort.
 
-The secondary use of this repository is to practice what would be common coding challenges for technical job interviews.  
+I've taken care to create this code without using the internet for the answer.
+There would be little purpose in creating this if I simply copied code from elsewhere.
+
+These were created by the author, applying what I already to now to some common problems.
